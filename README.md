@@ -88,7 +88,15 @@ I have a soft spot for package management, CI, and low level programming. Intere
 
 <h3><img src="https://upload.wikimedia.org/wikipedia/commons/3/3a/Neovim-mark.svg" height=20> (Neo)vim</h3>
 <details>
-<summary>:eyes: Neovim</summary>
+<summary>:eyes: Plugin Management</summary>
+
+[![nvim-best-practices-plugin-template](https://github-readme-stats.vercel.app/api/pin/?username=ColinKennedy&repo=nvim-best-practices-plugin-template)](https://github.com/ColinKennedy/nvim-best-practices-plugin-template)
+[![nvim-checkhealth-gh-action](https://github-readme-stats.vercel.app/api/pin/?username=ColinKennedy&repo=nvim-checkhealth-gh-action)](https://github.com/ColinKennedy/nvim-checkhealth-gh-action)
+
+</details>
+
+<details>
+<summary>:eyes: Tree-sitter</summary>
 
 [![hybrid2.nvim](https://github-readme-stats.vercel.app/api/pin/?username=ColinKennedy&repo=hybrid2.nvim)](https://github.com/ColinKennedy/hybrid2.nvim)
 [![tree-sitter-usd](https://github-readme-stats.vercel.app/api/pin/?username=ColinKennedy&repo=tree-sitter-usd)](https://github.com/ColinKennedy/tree-sitter-usd)
@@ -121,7 +129,18 @@ I have a soft spot for package management, CI, and low level programming. Intere
 </details>
 
 <details>
+<summary>:eyes: Tree-sitter</summary>
+
+[![tree-sitter-usd](https://github-readme-stats.vercel.app/api/pin/?username=ColinKennedy&repo=tree-sitter-usd)](https://github.com/ColinKennedy/tree-sitter-usd)
+[![tree-sitter-disassembly](https://github-readme-stats.vercel.app/api/pin/?username=ColinKennedy&repo=tree-sitter-disassembly)](https://github.com/ColinKennedy/tree-sitter-disassembly)
+[![tree-sitter-objdump](https://github-readme-stats.vercel.app/api/pin/?username=ColinKennedy&repo=tree-sitter-objdump)](https://github.com/ColinKennedy/tree-sitter-objdump)
+
+</details>
+
+<details>
 <summary>:eyes: Miscellaneous</summary>
+
+[![:checkhealth GitHub Action](https://github-readme-stats.vercel.app/api/pin/?username=ColinKennedy&repo=nvim-checkhealth-gh-action)](https://github.com/ColinKennedy/nvim-checkhealth-gh-action)
 
 [![vim-arggitter](https://github-readme-stats.vercel.app/api/pin/?username=ColinKennedy&repo=vim-arggitter)](https://github.com/ColinKennedy/vim-arggitter)
 [![vim-vex-complete](https://github-readme-stats.vercel.app/api/pin/?username=ColinKennedy&repo=vim-vex-complete)](https://github.com/ColinKennedy/vim-vex-complete)
