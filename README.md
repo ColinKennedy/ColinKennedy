@@ -96,13 +96,6 @@ I have a soft spot for package management, CI, and low level programming. Intere
 </details>
 
 <details>
-<summary>:eyes: Tree-sitter</summary>
-
-[![hybrid2.nvim](https://github-readme-stats.vercel.app/api/pin/?username=ColinKennedy&repo=hybrid2.nvim)](https://github.com/ColinKennedy/hybrid2.nvim)
-[![tree-sitter-usd](https://github-readme-stats.vercel.app/api/pin/?username=ColinKennedy&repo=tree-sitter-usd)](https://github.com/ColinKennedy/tree-sitter-usd)
-</details>
-
-<details>
 <summary>:eyes: Vim</summary>
 
 [![vim-git-backup](https://github-readme-stats.vercel.app/api/pin/?username=ColinKennedy&repo=vim-git-backup)](https://github.com/ColinKennedy/vim-git-backup)
@@ -129,15 +122,6 @@ I have a soft spot for package management, CI, and low level programming. Intere
 </details>
 
 <details>
-<summary>:eyes: Tree-sitter</summary>
-
-[![tree-sitter-usd](https://github-readme-stats.vercel.app/api/pin/?username=ColinKennedy&repo=tree-sitter-usd)](https://github.com/ColinKennedy/tree-sitter-usd)
-[![tree-sitter-disassembly](https://github-readme-stats.vercel.app/api/pin/?username=ColinKennedy&repo=tree-sitter-disassembly)](https://github.com/ColinKennedy/tree-sitter-disassembly)
-[![tree-sitter-objdump](https://github-readme-stats.vercel.app/api/pin/?username=ColinKennedy&repo=tree-sitter-objdump)](https://github.com/ColinKennedy/tree-sitter-objdump)
-
-</details>
-
-<details>
 <summary>:eyes: Miscellaneous</summary>
 
 [![:checkhealth GitHub Action](https://github-readme-stats.vercel.app/api/pin/?username=ColinKennedy&repo=nvim-checkhealth-gh-action)](https://github.com/ColinKennedy/nvim-checkhealth-gh-action)
@@ -146,6 +130,12 @@ I have a soft spot for package management, CI, and low level programming. Intere
 [![vim-vex-complete](https://github-readme-stats.vercel.app/api/pin/?username=ColinKennedy&repo=vim-vex-complete)](https://github.com/ColinKennedy/vim-vex-complete)
 </details>
 
+
+<h3>Tree-sitter</h3>
+
+[![tree-sitter-usd](https://github-readme-stats.vercel.app/api/pin/?username=ColinKennedy&repo=tree-sitter-usd)](https://github.com/ColinKennedy/tree-sitter-usd)
+[![tree-sitter-disassembly](https://github-readme-stats.vercel.app/api/pin/?username=ColinKennedy&repo=tree-sitter-disassembly)](https://github.com/ColinKennedy/tree-sitter-disassembly)
+[![tree-sitter-objdump](https://github-readme-stats.vercel.app/api/pin/?username=ColinKennedy&repo=tree-sitter-objdump)](https://github.com/ColinKennedy/tree-sitter-objdump)
 
 <h3>Miscellaneous</h3>
 
